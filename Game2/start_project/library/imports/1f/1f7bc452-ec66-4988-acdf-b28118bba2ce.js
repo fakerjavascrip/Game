@@ -1,5 +1,5 @@
 "use strict";
-cc._RF.push(module, '40e47skPYNND4tpkD4BorFt', 'Game');
+cc._RF.push(module, '1f7bcRS7GZJiKzfsoEYu6LO', 'Game');
 // scripts/Game.js
 
 'use strict';

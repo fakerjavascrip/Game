@@ -1,5 +1,5 @@
 "use strict";
-cc._RF.push(module, '7bf7dkY/uVI2ZUysBTvV3OR', 'Star');
+cc._RF.push(module, 'e334bilcTdCgpO4hUbU7M8a', 'Star');
 // scripts/Star.js
 
 "use strict";

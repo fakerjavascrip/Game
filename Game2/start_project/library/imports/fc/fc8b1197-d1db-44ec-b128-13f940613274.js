@@ -1,5 +1,5 @@
 "use strict";
-cc._RF.push(module, '61a52hpfgdC0Zkb52XOIw9a', 'Player2');
+cc._RF.push(module, 'fc8b1GX0dtE7LEoE/lAYTJ0', 'Player2');
 // scripts/Player2.js
 
 "use strict";
