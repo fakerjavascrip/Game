@@ -1,5 +1,5 @@
 (function() {"use strict";var __module = CC_EDITOR ? module : {exports:{}};var __filename = 'preview-scripts/assets/scripts/Star.js';var __require = CC_EDITOR ? function (request) {return cc.require(request, require);} : function (request) {return cc.require(request, __filename);};function __define (exports, require, module) {"use strict";
-cc._RF.push(module, '7bf7dkY/uVI2ZUysBTvV3OR', 'Star', __filename);
+cc._RF.push(module, 'e334bilcTdCgpO4hUbU7M8a', 'Star', __filename);
 // scripts/Star.js
 
 "use strict";

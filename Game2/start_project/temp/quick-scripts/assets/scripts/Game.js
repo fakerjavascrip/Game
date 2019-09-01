@@ -1,5 +1,5 @@
 (function() {"use strict";var __module = CC_EDITOR ? module : {exports:{}};var __filename = 'preview-scripts/assets/scripts/Game.js';var __require = CC_EDITOR ? function (request) {return cc.require(request, require);} : function (request) {return cc.require(request, __filename);};function __define (exports, require, module) {"use strict";
-cc._RF.push(module, '40e47skPYNND4tpkD4BorFt', 'Game', __filename);
+cc._RF.push(module, '1f7bcRS7GZJiKzfsoEYu6LO', 'Game', __filename);
 // scripts/Game.js
 
 'use strict';
